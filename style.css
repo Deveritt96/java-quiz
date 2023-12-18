@@ -24,8 +24,10 @@ align-items: end;
     display: flex;
     justify-content: center;
     align-content: flex-start;
-    font-size: 34;
+    flex-wrap: wrap;
+    font-size: 34px;
     font-weight: bolder;
+    margin: 50px 150px 50px 150px;
 
 }
 #button-container {
